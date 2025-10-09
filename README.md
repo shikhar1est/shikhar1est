@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on a  hyperlocal real-time community alert system.<br><br>🤝 I’m looking to collaborate on open source MERN and Spring Boot.<br><br>🧠 I’m looking for help with optimizing performance in GraphQL queries and Docker-based CI/CD.<br><br>🌱 I’m currently learning GraphQL, Go and Spring Boot
+🛠️ I’m currently working on a  hyperlocal real-time community alert system.<br><br>🤝 I’m looking to collaborate on open source MERN and Spring Boot.<br><br>🌱 I’m currently learning GraphQL, Go and Spring Boot
 
 
 ## 🌐 Socials:
