@@ -57,9 +57,47 @@
 
 </div>
 
-📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=shikhar1est&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar1est&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1est&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1est&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=ec4899&point=ffffff" width="95%" /> </div> <br/> <div align="center">
 <div align="center">
+
+<table>
+<tr>
+<td valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1est&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899" />
+
+</td>
+<td valign="top" width="340">
+
+<details>
+<summary>⚡ <b>Quick Facts</b> — click to expand</summary>
+<br>
+
+- 🕐 Most productive: **late nights**
+- 📚 Currently reading up on: **distributed systems**
+- 🎯 This year's focus: **System Design**
+- 🎮 Fun fact: **ancient & medieval warfare nerd**
+
+</details>
+
+<br>
+
+<details>
+<summary>🧭 <b>What I'm building</b> — click to expand</summary>
+<br>
+
+Currently working on a **Redis-inspired in-memory database** — exploring how key-value stores, persistence, and eviction policies actually work under the hood.
+
+[→ Check it out on GitHub]([https://github.com/shikhar1est/Redis-Scratch])
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1est&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=ec4899&point=ffffff" width="95%" />
+
+</div>
 
 ##  Contribution Snake
 
