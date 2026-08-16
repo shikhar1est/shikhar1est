@@ -40,6 +40,22 @@
 <img src="https://img.shields.io/badge/TOOLS%20%26%20CONCEPTS-F59E0B?style=for-the-badge" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/System_Design-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&section=header" width="100%" /> <br/> <div align="center">
+<div align="center">
+
+## 🏢 Organizations
+
+<a href="https://github.com/hiero-ledger">
+  <img src="https://github.com/hiero-ledger.png" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/ShishuCard">
+  <img src="https://github.com/ShishuCard.png" width="60" height="60" style="border-radius:50%" />
+</a>
+<a href="https://github.com/OpenVoiceX">
+  <img src="https://github.com/OpenVoiceX.png" width="60" height="60" style="border-radius:50%" />
+</a>
+
+</div>
+
 📊 GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=shikhar1est&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar1est&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1est&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1est&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=ec4899&point=ffffff" width="95%" /> </div> <br/> <div align="center">
 <div align="center">
