@@ -3,12 +3,13 @@
 <a href="https://linkedin.com/in/shikhar-rai-65b155337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/Breaker5x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:shikharr521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=shikhar1est&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&section=header" width="100%" /> <br/> <table> <tr> <td width="60%" valign="top">
-🚀 About Me
-🔭 Currently building Redis-Inspired In-Memory Database
-🌱 Currently exploring System Design & Generative AI
-💬 Ask me about DSA, Java, Computer Science Fundamentals
-🎯 Goal for 2026: Mastering System Design
-⚡ Fun fact: Ancient & medieval warfare is my completely unnecessary area of expertise
+<ul>
+<li>🔭 Currently building <b>Redis-Inspired In-Memory Database</b></li>
+<li>🌱 Currently exploring <b>System Design & Generative AI</b></li>
+<li>💬 Ask me about <b>DSA, Java, Computer Science Fundamentals</b></li>
+<li>🎯 Goal for 2026: <b>Mastering System Design</b></li>
+<li>⚡ Fun fact: <b>Ancient & medieval warfare is my completely unnecessary area of expertise</b></li>
+</ul>
 </td> <td width="40%" valign="top" align="center"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="0" height="0" /> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" /> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&section=header" width="100%" /> <br/> <div align="center">
 🧰 Tech Stack
 </div> <div align="center">
